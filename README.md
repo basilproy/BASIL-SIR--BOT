@@ -6,7 +6,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src="Sushilan_v2.png"  width="200" height="200"/>
+<img src="basilsir.jpg"  width="200" height="200"/>
 </p>
   <p align="center">
 <a href="https://github.com/A4edits"><img title="Author" src="https://img.shields.io/badge/Author-A4edits-A4edits/sushilan_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
