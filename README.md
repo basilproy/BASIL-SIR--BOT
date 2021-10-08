@@ -1,15 +1,15 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+basilserbotz+WA+Bot+repo;Created+by+basilproy;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+basilserbotz+WA+Bot+repo;Created+by+basilserbotz;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
 
  </a>
 </p>
 <div align="center">
   <p align="center">
-<img src="basilsir.jpg"  width="200" height="200"/>
+<img src="basilsir.jpg" width="200" height="200"/>
 </p>
   <p align="center">
-<a href="https://github.com/basilproy"><img title="Author" src="https://img.shields.io/badge/Author-basilproy-basilproy/?color=blue&style=for-the-badge&logo="></a>
+<a href="https://github.com/basilproy"><img title="Author" src="https://img.shields.io/badge/Author-basilserbotz-basilproy/basilserbotz?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -21,7 +21,9 @@ Project created by <a href="https://github.com/basilproy">basilserbotz</a> to ma
 </p>
 
 ## Setup
-<div align="center">
+<div align="center"> 
+
+https://youtu.be/fd0KPblop-k
 
   ### Simple Method
   
@@ -76,7 +78,7 @@ Click WA logo to Join Support Group 👇
     
 ### ⚠️ Warning! 
 ```
-Due to Userbot; Your  account may be banned.
+Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
 Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
@@ -88,7 +90,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![basilserbotz](https://github.com/basilproy.png?size=100)](https://github.com/basilproy) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
 [farhan-dqz](https://github.com/farhan-dqz) | [basilserbotz](https://github.com/basilproy) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
-Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
+Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
 
@@ -97,6 +99,5 @@ Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |
 This project is protected by `GNU General Public Licence v3.0` license.
 
 ### Disclaimer
-`` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
-
+`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
 
