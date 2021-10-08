@@ -1,9 +1,9 @@
 {
-    "name": "Amalser_v2 ",
-    "description": "Amalser_v2 is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
+    "name": "BASIL SER BOTZ ",
+    "description": "basilserbotz is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
     "logo": "https://i.imgur.com/yCYYyEJ.jpeg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/cyberchekuthan/Amalser_v2",
+    "repository": "https://github.com/basilproy/basilserbotz",
     "website":   "https://github.com/farhan-dqz/Julie-Mwol",
     "success_url": "https://github.com/farhan-dqz/Julie-Mwol",
     "stack": "container",
@@ -15,10 +15,7 @@
         "SUDO": {
             "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 91xxxxxxxxx,0",
             "required": false
-        },
-         "YT_PASSWORD": {
-            "description": "enter the password, to get password watch https://youtu.be/fd0KPblop-k .",
-            "required": true
+        
         },
         "LANGUAGE": {
             "description": "Bot language.English => en",
@@ -137,10 +134,10 @@
         "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏Amalser⤎╾━━━•"
+            "value": "•━━━━╼⤏basilser⤎╾━━━•"
         },
         "WORK_TYPE": {
-            "description": "Amalser Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "basilserbotz Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
