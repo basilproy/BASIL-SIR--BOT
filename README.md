@@ -20,10 +20,7 @@ Project created by <a href="https://github.com/basilproy">basilserbotz</a> to ma
     <br> 
 </p>
 
-## Setup
-<div align="center"> 
 
-https://youtu.be/fd0KPblop-k
 
   ### Simple Method
   
