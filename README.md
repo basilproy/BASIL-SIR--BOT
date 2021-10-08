@@ -1,6 +1,6 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+BASIL-SIR--BOT+WA+Bot+repo;Created+by+basilproy;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+basilserbotz+WA+Bot+repo;Created+by+basilproy;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
 
  </a>
 </p>
@@ -9,11 +9,11 @@
 <img src="basilsir.jpg"  width="200" height="200"/>
 </p>
   <p align="center">
-<a href="https://github.com/basilproy"><img title="Author" src="https://img.shields.io/badge/Author-basilproy-basilproy/BASIL-SIR--BOT?color=blue&style=for-the-badge&logo="></a>
+<a href="https://github.com/basilproy"><img title="Author" src="https://img.shields.io/badge/Author-basilproy-basilproy/?color=blue&style=for-the-badge&logo="></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/basilproy">BASIL-SIR--BOT</a> to make it public
+Project created by <a href="https://github.com/basilproy">basilserbotz</a> to make it public
     <br>
        | © |
         Reserved |
@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/basilproy">BASIL-SIR--BOT</a> to 
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/basilproy/BASIL-SIR--BOT) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/basilproy/basilserbotz) 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
@@ -34,8 +34,8 @@ Project created by <a href="https://github.com/basilproy">BASIL-SIR--BOT</a> to 
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/basilproy/BASIL-SIR--BOT
-$ cd BASIL-SIR--BOT
+$ git clone https://github.com/basilproy/basilserbotz
+$ cd basilserbotz
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -43,8 +43,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/basilproy/BASIL-SIR--BOT
-$ cd BASIL-SIR--BOT
+$ git clone https://github.com/basilproy/basilserbotz
+$ cd basilserbotz
 $ npm i
 $ node julie.js
 ```
@@ -85,9 +85,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![BASIL-SIR--BOT](https://github.com/basilproy.png?size=100)](https://github.com/basilproy) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![basilserbotz](https://github.com/basilproy.png?size=100)](https://github.com/basilproy) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [BASIL-SIR--BOT](https://github.com/basilproy) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+[farhan-dqz](https://github.com/farhan-dqz) | [basilserbotz](https://github.com/basilproy) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
